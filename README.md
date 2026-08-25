@@ -60,7 +60,6 @@ These are useful anchors for a current talk; they are not a leaderboard.
 ## Browse the map
 
 - [Full model catalog](CATALOG.md) — generated tables, grouped by primary omics layer
-- [Talk overlay](docs/talk-overlay.md) — slide-ready narrative, wording, and caveats
 - [Selection method](docs/selection-method.md) — what qualifies, evidence rules, and limitations
 - [Machine-readable catalog](catalog/models.json) — consistent metadata for every entry
 - [Contributing](CONTRIBUTING.md) — how to add or update a model
