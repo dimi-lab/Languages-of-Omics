@@ -1,8 +1,10 @@
-# Awesome Omics Foundation Models
+# The Languages of Omics
 
-> **The Languages of Omics — Can AI Become Biology's Universal Translator?**
+> **Can AI Become Biology's Universal Translator?**
 
-A curated, evidence-linked map of foundation models for genomics, transcriptomics, proteomics, RNA, epigenomics, spatial omics, metabolomics, and the bridges between them.
+AI has learned to understand human language and images from large amounts of data. Biology is a different challenge. Genomics, transcriptomics, proteomics, and spatial omics were developed to measure different aspects of biological systems. As these data continue to grow, AI is beginning to learn the patterns and relationships that connect them. This talk explores what is possible today, what remains difficult, and why careful scientific validation still matters.
+
+This companion repository provides a curated, evidence-linked map of foundation models for genomics, transcriptomics, proteomics, RNA, epigenomics, spatial omics, metabolomics, and the bridges between them.
 
 ![The languages of omics](assets/omics-language-map.svg)
 
