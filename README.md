@@ -31,12 +31,12 @@ Biology does not expose one convenient language:
 
 | Omics layer | A useful language analogy | What the model actually receives |
 |---|---|---|
-| Genomics | a very long sentence in a four-letter alphabet | ordered DNA bases, variants, or regulatory tracks |
-| Transcriptomics | a weighted bag of words | genes plus sparse abundance values, conditioned on cell state |
-| Proteomics | sentences in an amino-acid alphabet | protein sequence, structure, function text, abundance, or mass spectra |
-| Epigenomics | regulatory markup on the genome | accessible regions, motifs, methylation, histone marks, and cell context |
-| Spatial omics | molecular language with grammar supplied by place | expression plus coordinates, neighborhoods, graphs, or tissue images |
-| Metabolomics | a spectrum of molecular fragments | mass-to-charge peaks, intensities, and candidate molecular structures |
+| [Genomics](CATALOG.md#genomics) | a very long sentence in a four-letter alphabet | ordered DNA bases, variants, or regulatory tracks |
+| [Transcriptomics](CATALOG.md#transcriptomics-and-single-cell) | a weighted bag of words | genes plus sparse abundance values, conditioned on cell state |
+| [Proteomics](CATALOG.md#protein-and-proteomics) | sentences in an amino-acid alphabet | protein sequence, structure, function text, abundance, or mass spectra |
+| [Epigenomics](CATALOG.md#epigenomics) | regulatory markup on the genome | accessible regions, motifs, methylation, histone marks, and cell context |
+| [Spatial omics](CATALOG.md#spatial-omics) | molecular language with grammar supplied by place | expression plus coordinates, neighborhoods, graphs, or tissue images |
+| [Metabolomics](CATALOG.md#metabolomics) | a spectrum of molecular fragments | mass-to-charge peaks, intensities, and candidate molecular structures |
 
 The central question is therefore not merely whether one model can tokenize every assay. It is whether models can **align, translate, and generate across representations without erasing the biology unique to each layer**.
 
