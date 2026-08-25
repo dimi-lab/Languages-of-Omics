@@ -6,6 +6,21 @@ AI has learned to understand human language and images from large amounts of dat
 
 This companion repository provides a curated, evidence-linked map of foundation models for genomics, transcriptomics, proteomics, RNA, epigenomics, spatial omics, metabolomics, and the bridges between them.
 
+## One idea, two language systems
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/human-languages-logo.png" alt="Hello expressed in several human languages" width="440"></td>
+    <td align="center" width="50%"><img src="assets/omics-languages-logo.png" alt="Biology expressed through several omics languages" width="440"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Human languages</strong><br>Different words can express shared meaning.</td>
+    <td align="center"><strong>Omics languages</strong><br>Different measurements describe shared biology.</td>
+  </tr>
+</table>
+
+The human-languages reference was supplied for the talk. Its companion graphic recasts genomics, transcriptomics, proteomics, spatial omics, and metabolomics as distinct measurement languages converging on biology.
+
 ![The languages of omics](assets/omics-language-map.svg)
 
 **Last literature sweep:** 2026-08-25 · **Catalog:** 42 models · **Scope:** omics-specific foundation models and explicit cross-modal bridges

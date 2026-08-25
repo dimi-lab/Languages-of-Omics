@@ -6,6 +6,18 @@ This guide maps the catalog onto the talk theme **“Can AI Become Biology's Uni
 
 > Omics measurements are not one language written in different alphabets. They are different data structures—sequences, sparse weighted sets, molecular graphs, spectra, and spatial fields. A biological foundation model becomes a translator only when it preserves those structures while aligning or generating across them.
 
+## Opening visual: a parallel language analogy
+
+Place the two speech-bubble graphics side by side:
+
+| Human languages | Omics languages |
+|---|---|
+| ![Hello expressed in several human languages](../assets/human-languages-logo.png) | ![Biology expressed through several omics languages](../assets/omics-languages-logo.png) |
+
+Suggested narration:
+
+> In human language, different words can point to shared meaning. Omics platforms do something analogous: genomics, transcriptomics, proteomics, spatial omics, and metabolomics observe the same biological system through different measurement languages. The translation problem is to connect those views without pretending that they are interchangeable.
+
 ## A clearer overlay for the existing slide
 
 | Layer | Suggested phrasing | Token or unit | Grammar / context | Representative models |
