@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If this catalog supports your work, cite the repository and the primary model papers you use."
+title: "Awesome Omics Foundation Models: The Languages of Omics"
+type: software
+version: 0.1.0
+date-released: 2026-08-25
+license: MIT
+abstract: "A curated, machine-readable map of foundation models across omics layers and the translation directions between them."

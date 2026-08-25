@@ -1,0 +1,50 @@
+name: Suggest a model
+description: Propose a new model or a correction to an existing entry.
+title: "[Model]: "
+labels: [catalog]
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Model name
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Primary paper or preprint
+      description: Prefer a DOI or publisher URL.
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: Official code
+  - type: input
+    id: weights
+    attributes:
+      label: Official weights or API
+  - type: dropdown
+    id: status
+    attributes:
+      label: Publication status
+      options:
+        - Peer-reviewed
+        - Preprint
+        - Released artifact
+    validations:
+      required: true
+  - type: textarea
+    id: translation
+    attributes:
+      label: Input → output language
+      description: What goes into the model, and what transferable representation or prediction comes out?
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: Why it belongs
+      description: Explain how it meets the inclusion criteria without leaderboard or marketing language.
+    validations:
+      required: true
